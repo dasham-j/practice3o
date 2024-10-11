@@ -1,2 +1,1 @@
-a=5
-print("old Page")
+print1("old Page")
