@@ -1,5 +1,5 @@
 print1("hellow")
-print2("Hello world")
+print2("Hello sir")
 print1("Hello world")
 
 
